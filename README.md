@@ -25,6 +25,6 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação, Gosto muito de aprender e de estar disposição sempre!!
 
 
