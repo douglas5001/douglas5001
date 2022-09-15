@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Douglas Portella 🖐️
 
-<h1>O site esta em desenvolvimento, estou sem ideia pra design 😭😭😭<h1/>
+<h1>O site esta em desenvolvimento, estou sem ideia pra design 😭😭<h1/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/portella_doug/)
