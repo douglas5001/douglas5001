@@ -2,7 +2,6 @@
 <h1>SITE: https://douglaasportella.com.br<h1/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/portella_doug/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dr_spiderman)
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas5001&show_icons=true&theme=dracula&count_private=true)
 
