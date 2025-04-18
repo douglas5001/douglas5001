@@ -3,7 +3,7 @@
 <span style="font-size: 70px;">👋</span>
 </div>
 
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center"> 👨‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedor Full Stack | Cursando analise e desenvolvimento de sistemas</i></p>
 
 ---
