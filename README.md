@@ -47,12 +47,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 </picture>
 
 ###
----
-
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ldGlrdDR2dDlyaTI3eHpueGNsbTl5cTRoazJ2N2p2MTJ6ZHQ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AsuCf15CIj0Va/giphy.gif" width="150" alt="Naruto hokage" />
-
-> _"Enquanto você estiver com vontade de correr atrás dos seus sonhos... ninguém poderá te parar."_ 🧡  
-> — **Naruto Uzumaki**
 <br>
 
 ---
@@ -61,4 +55,4 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 <!--   <img align="middle" src="https://github.com/user-attachments/assets/44296890-aa50-4ab3-9f9c-fbf4dd8ed8bc" width="350" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" /> -->
 <!-- </div> -->
 <br>
-<p align="center"><i>Obrigada pela visita!</i></p>
+<p align="center"><i>Obrigado pela visita!</i></p>
